@@ -21,6 +21,6 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
    -> Again here, more kid and female friendly.
    
 # Data Sources
-- Official German Charts - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
-- Spotify - artists, audio features, release dates, cover art
-- Genius - song texts
+- [Official German Charts](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
+- [Spotify](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
+- [Genius](https://genius.com) - song texts
