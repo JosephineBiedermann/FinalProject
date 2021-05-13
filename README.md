@@ -58,8 +58,8 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - Presenting
 ### Tools
 ![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
-[Trello](https://trello.com/b/tW9WjSbh/final-project), GitHub, Python/Jupyter Notebook, Tableau, [Slides](https://slides.com/josephinebiedermann/final-project/edit)
-<br/>ADD THE OTHER LINKS!
+[Trello](https://trello.com/b/tW9WjSbh/final-project), [GitHub](https://github.com/JosephineBiedermann/FinalProject), Python/Jupyter Notebook, Tableau, [Slides](https://slides.com/josephinebiedermann/final-project/edit)
+<br/>ADD THE OTHER LINKS and align under icons!
 
 # Key Take Aways
 
