@@ -12,7 +12,7 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
 - [x](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [y](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [z](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
-- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Key Take Aways](https://github.com/JosephineBiedermann/FinalProject#key-take-aways)
 
 # Topic
 Exploring diverent reasons for the rising popularity of the "Deutschrap" genre in Germany over the last 10 years.
