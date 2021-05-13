@@ -1,18 +1,19 @@
 # The rising popularity of German rap from 2010-2021
-<br/> by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
+by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
 
-<br/><br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
+<br/>This is my final project for the IRONHACK Data Analytics Bootcamp 2021.
+
+<br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
 <br/>[Image source](https://hiphop.de/magazin/hintergrund/21-alben-auf-deutschrap-2019-wartet-317649)
-
-
-This is the final project for the IRONHACK Data Analytics Bootcamp 2021.
 
 # Table of content
 
 - [Topic](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
 - [Data Sources](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process, Tools & Techniques](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
+- [x](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [y](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
+- [z](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
 # Topic
