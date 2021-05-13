@@ -1,10 +1,19 @@
 # The rising popularity of German rap from 2010-2021
+<br/> by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
 
-![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
+<br/><br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
 <br/>[Image source](https://hiphop.de/magazin/hintergrund/21-alben-auf-deutschrap-2019-wartet-317649)
 
 
 This is the final project for the IRONHACK Data Analytics Bootcamp 2021.
+
+# Table of content
+
+- [Topic](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Data Sources](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
+- [Process, Tools & Techniques](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
+- [y](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
+- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
 # Topic
 Exploring diverent reasons for the rising popularity of the "Deutschrap" genre in Germany over the last 10 years.
@@ -24,3 +33,12 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - [Official German Charts](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
 - [Spotify](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
 - [Genius](https://genius.com) - song texts
+
+# Process, Tools & Techniques
+
+
+# 
+
+**Thank you for reading!** <br/>
+If you have any questions or comments, please reach out.<br/><br/>
+
