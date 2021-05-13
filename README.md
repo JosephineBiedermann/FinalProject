@@ -5,3 +5,22 @@
 
 
 This is the final project for the IRONHACK Data Analytics Bootcamp 2021.
+
+# Topic
+Exploring diverent reasons for the rising popularity of the "Deutschrap" genre in Germany over the last 10 years.
+
+### Background
+
+### Hypothesis
+1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
+2. The word-use in deutsch rap tracks changed significantly from 2010-2021
+   -> Which opened up the group of listeners to adults, parents allowing kids/teenagers to listen/buy music, females.
+4. The gender distribution of deutsch rap artists changed significantly from 2010-2021
+   -> Which made it more appealing to female listeners to dive into the genre.
+5. The images displayed on deutsch rap album or track covers changed from 2010-2021
+   -> Again here, more kid and female friendly.
+   
+# Data Sources
+- Official German Charts - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
+- Spotify - artists, audio features, release dates, cover art
+- Genius - song texts
