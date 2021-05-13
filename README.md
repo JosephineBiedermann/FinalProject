@@ -58,7 +58,7 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - Presenting
 ### Tools
 MAYBE REPLACE WITH picture, alter colors
-<br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
+<br/>![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
 - Jupyter Notebook
 - Tableau
 - GitHub
