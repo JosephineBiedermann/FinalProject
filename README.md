@@ -33,7 +33,37 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - [Spotify](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
 - [Genius](https://genius.com) - song texts
 
-# Process, Tools & Techniques
+# Process, Techniques & Tools
+
+### Process/Workflow
+- INSERT A DIAGRAM HERE instead of the following text
+   1. Set up project structure (GitHub, Trello)
+   2. Outline project plan
+   3. Find data resources
+   4. Get data
+   5. EDA, clean and wrangle data
+   6. Visual analysis
+   7. Statistical analysis (Hypothesis testing)
+   8. Visualization
+   9. Present project
+  
+### Techniques
+- Data Collection: Web Scraping
+- EDA
+- Data Cleaning & Wrangling
+- Data Exploration/Statistical Analysis
+- Data Visualisation
+- NLP (Tokenization, Buzzword, (Sentiment Analysis))
+- (Computer Vision)
+- Presenting
+### Tools
+- Jupyter Notebook
+- Tableau
+- GitHub
+- [Trello](https://trello.com/b/tW9WjSbh/final-project)
+- [Slides](https://slides.com/josephinebiedermann/final-project/edit)
+
+
 
 # Key Take Aways
 
