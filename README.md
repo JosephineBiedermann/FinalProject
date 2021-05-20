@@ -68,8 +68,8 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - **Words** such as 'baby' and 'love' are more frequently used in 2020 german rap tracks within the german top 100 charts.
 
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now 
-### Outlook
-Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
+<br/><br/>**Outlook**
+<br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
 # 
 
