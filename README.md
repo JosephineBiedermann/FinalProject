@@ -1,7 +1,7 @@
 # The rising popularity of German rap from 2010-2021
 by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
 
-<br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/DR_artists_title_image.jpg?raw=true)
+<br/>![DR_artists_title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/title_image.jpg?raw=true)
 <br/>[Image source](https://hiphop.de/magazin/hintergrund/21-alben-auf-deutschrap-2019-wartet-317649)
 
 # Table of content
@@ -25,11 +25,11 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
 2. The gender distribution of deutsch rap artists changed significantly from 2010-2021
 3. The word-use in deutsch rap tracks changed significantly from 2010-2021
-   
+
 # Data Sources
-[<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
-<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/spotify_logo_1.png" alt="" width="150" height="50" />](https://www.spotify.com/de/home/) - German rap artists, tracks, audio features, release dates
-<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_1.png" alt="" width="150" height="50" />](https://genius.com) - track lyrics
+[<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
+<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/spotify_logo_1.png" alt="" width="150" height="50" />](https://www.spotify.com/de/home/) - German rap artists, tracks, audio features, release dates
+<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/genius_logo_1.png" alt="" width="180" height="50" />](https://genius.com) - track lyrics
 
 # Process, Techniques & Tools
 
@@ -48,7 +48,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 - Present project - find slides [here](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
   
 ### Tools
-![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
+![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/tools.png?raw=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Trello](https://trello.com/b/tW9WjSbh/final-project)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/JosephineBiedermann/FinalProject)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
 
 ### Techniques
@@ -69,6 +69,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now .
 
 <br/>
+
 **Outlook**
 <br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
