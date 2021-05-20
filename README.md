@@ -46,6 +46,10 @@ NEEDS TO BE ADDED
 - Visualization & analysis in Tableau
 - Present project
   
+### Tools
+![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Trello](https://trello.com/b/tW9WjSbh/final-project)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/JosephineBiedermann/FinalProject)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
+
 ### Techniques
 - Data collection: web scraping
 - EDA
@@ -54,9 +58,6 @@ NEEDS TO BE ADDED
 - Data visualisation
 - NLP (Tokenization, Buzzword, Word Frequency)
 - Presenting
-### Tools
-![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Trello](https://trello.com/b/tW9WjSbh/final-project)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/JosephineBiedermann/FinalProject)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
 
 # Key Take Aways
 - The **share of german rap** tracks in the weekly german top 100 charts increased by 36% from 2010 to 2020.
