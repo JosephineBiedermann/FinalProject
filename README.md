@@ -64,7 +64,8 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 # Key Take Aways
 - The share of german rap tracks in the weekly german top 100 charts increased by 36% from 2010 to 2020.
 - The average dancebility of german rap tracks overtook the average dancebility of other top100 tracks from other genres from 2015 on wards.
-- There
+- There are 1100% more album releases in 2020 compared to 2010 from the female german rap artists sample.
+- Words such as 'baby' and 'love' are now (2020) more frequently used in german rap tracks in the german top 100 charts.
 # 
 
 **Thank you for reading!** <br/>
