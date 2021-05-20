@@ -58,11 +58,13 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 - Presenting
 ### Tools
 ![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
-[Trello](https://trello.com/b/tW9WjSbh/final-project), [GitHub](https://github.com/JosephineBiedermann/FinalProject), Python/Jupyter Notebook, Tableau, [Slides](https://slides.com/josephinebiedermann/final-project/edit)
+[Trello](https://trello.com/b/tW9WjSbh/final-project), [GitHub](https://github.com/JosephineBiedermann/FinalProject), [Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code), [Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization), [Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
 <br/>ADD THE OTHER LINKS and align under icons!
 
 # Key Take Aways
-
+- The share of german rap tracks in the weekly german top 100 charts increased by 36% from 2010 to 2020.
+- The average dancebility of german rap tracks overtook the average dancebility of other top100 tracks from other genres from 2015 on wards.
+- There
 # 
 
 **Thank you for reading!** <br/>
