@@ -45,7 +45,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 - EDA, clean and wrangle data sets
 - Apply NLP techniques on lyrics data set
 - Visualization & analysis in Tableau
-- Present project
+- Present project - find slides [here](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
   
 ### Tools
 ![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
@@ -67,11 +67,12 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 - **Words** such as 'baby' and 'love' are more frequently used in 2020 german rap tracks within the german top 100 charts.
 
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now .
-<br/><br/>Please find the complete presentation [here](https://slides.com/josephinebiedermann/deck-8dbfaa/edit).
+
 <br/>
 **Outlook**
 <br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
+# 
 **Disclaimer**
 <br/>Due to the time constrict for the final project (5 working days), the numbers, over all outcome and conclusions are made only on a sample data set. I am not speaking for the whole majority of the German Deutschrap genre. Please view this project and analysis as a peak into the topic. The data will be biased to a certain degree, as I had to clean and wrangle them.
 # 
