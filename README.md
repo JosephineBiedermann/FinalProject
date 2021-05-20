@@ -26,9 +26,6 @@ NEEDS TO BE ADDED
    -> Which opened up the group of listeners to adults, parents allowing kids/teenagers to listen/buy music, females.
    
 # Data Sources
-
-CHANGE TO LOGO
-
 [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
 <br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/spotify_logo_1.png" alt="" width="150" height="50" />](https://www.spotify.com/de/home/) - German rap artists, tracks, audio features, release dates
 <br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_1.png" alt="" width="150" height="50" />](https://genius.com) - track lyrics
@@ -56,7 +53,7 @@ CHANGE TO LOGO
 - Presenting
 ### Tools
 ![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
-[Trello](https://trello.com/b/tW9WjSbh/final-project), [GitHub](https://github.com/JosephineBiedermann/FinalProject), [Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code), [Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization), [Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
+<pre> [Trello](https://trello.com/b/tW9WjSbh/final-project),       [GitHub](https://github.com/JosephineBiedermann/FinalProject),        [Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code),       [Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization),       [Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit) </pre>
 <br/>ALINE LINKS UNDER THE ICONS!
 
 # Key Take Aways
