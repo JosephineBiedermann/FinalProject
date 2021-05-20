@@ -25,12 +25,12 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
 2. The gender distribution of deutsch rap artists changed significantly from 2010-2021
 3. The word-use in deutsch rap tracks changed significantly from 2010-2021
-   
+<br/>
 # Data Sources
 [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
 <br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/spotify_logo_1.png" alt="" width="150" height="50" />](https://www.spotify.com/de/home/) - German rap artists, tracks, audio features, release dates
 <br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/genius_logo_1.png" alt="" width="150" height="50" />](https://genius.com) - track lyrics
-
+<br/>
 # Process, Techniques & Tools
 
 ### Process/Workflow
@@ -59,7 +59,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 - Data visualisation
 - NLP (Tokenization, Buzzword, Word Frequency)
 - Presenting
-
+<br/>
 # Key Take Aways
 - The **share of german rap** tracks in the weekly german top 100 charts increased by 36% from 2010 to 2020.
 - The **average dancebility** of german rap tracks overtook the average dancebility of other top100 tracks from other genres from 2015 on wards.
@@ -69,6 +69,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now .
 
 <br/>
+
 **Outlook**
 <br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
