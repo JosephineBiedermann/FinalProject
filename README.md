@@ -1,7 +1,7 @@
 # The rising popularity of German rap from 2010-2021
 by [Josephine Biedermann](https://github.com/JosephineBiedermann), May 2021
 
-<br/>![title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/title_image.jpg?raw=true)
+![title_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/title_image.jpg?raw=true)
 <br/>[Image source](https://hiphop.de/magazin/hintergrund/21-alben-auf-deutschrap-2019-wartet-317649)
 
 # Table of content
@@ -80,5 +80,4 @@ All of the key take aways from above lead me to the conclusion, that the german 
 
 **Thank you for reading!** <br/>
 If you have any questions or comments, please reach out.<br/><br/>
-
 ![bottom_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/bottom_image.png?raw=true)
