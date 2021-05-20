@@ -31,7 +31,7 @@ CHANGE TO LOGO
 
 - [Official German Charts](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
 - [Spotify](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
-- <img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_2.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> https://genius.com - song texts
+- <img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_2.png" alt="" data-canonical-src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_2.png" width="100" height="100" /> https://genius.com - song texts
 
 # Process, Techniques & Tools
 
