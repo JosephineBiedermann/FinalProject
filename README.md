@@ -19,7 +19,7 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 German rap music is all over the place nowerdays. We see german rap artists on bilboards advertising the newest nike shoes, we encounter their tracks in movie soundtracks and we can even buy foods and drinks from their own brands. The most famous artists like Capital Bra and 187 Straßenbande are even known by our parents, which was unthinkable 10 years ago. But when and how did the phenomenon "Deutschrap" started and became as popular as it is today? 
 <br/>As a listener of Deutschrap myself I was always curious to find out more. So when the opportunity arose to choose an instresting topic for the final project of the Data Analytics Bootcamp from IRONHACK, I knew immediatly what I wanted to do.
 
-# Disclaimer
+#### Disclaimer
 Due to the time constrict for the final project (5 working days), the numbers, over all outcome and conclusions are made only on a sample data set. I am not speaking for the whole majority of the German Deutschrap genre. Please view this project and analysis as a peak into the topic. The data will be biased to a certain degree, as I had to clean and wrangle them.
 
 ### Hypothesis
