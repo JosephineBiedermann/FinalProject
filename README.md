@@ -29,7 +29,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 # Data Sources
 [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
 <br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/spotify_logo_1.png" alt="" width="150" height="50" />](https://www.spotify.com/de/home/) - German rap artists, tracks, audio features, release dates
-<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/genius_logo_1.png" alt="" width="160" height="50" />](https://genius.com) - track lyrics
+<br/><br/> [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/logos/genius_logo_1.png" alt="" width="175" height="50" />](https://genius.com) - track lyrics
 
 # Process, Techniques & Tools
 
