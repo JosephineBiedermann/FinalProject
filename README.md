@@ -22,9 +22,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 ### Hypothesis
 1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
 2. The gender distribution of deutsch rap artists changed significantly from 2010-2021
-   <br/> ➞ Which made it more appealing to female listeners to dive into the genre.
 3. The word-use in deutsch rap tracks changed significantly from 2010-2021
-   <br/> ➞ Which opened up the group of listeners to adults, parents allowing kids/teenagers to listen/buy music, females.
    
 # Data Sources
 [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/bvmi-offizielle-charts_logo.jpg" alt="" width="120" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 tracks 2010-2021, weekly German top100 HipHop albums 2010-2021
