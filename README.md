@@ -19,9 +19,6 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 German rap music is all over the place nowerdays. We see german rap artists on bilboards advertising the newest nike shoes, we encounter their tracks in movie soundtracks and we can even buy foods and drinks from their own brands. The most famous artists like Capital Bra and 187 Straßenbande are even known by our parents, which was unthinkable 10 years ago. But when and how did the phenomenon "Deutschrap" started and became as popular as it is today? 
 <br/>As a listener of Deutschrap myself I was always curious to find out more. So when the opportunity arose to choose an instresting topic for the final project of the Data Analytics Bootcamp from IRONHACK, I knew immediatly what I wanted to do.
 
-#### Disclaimer
-Due to the time constrict for the final project (5 working days), the numbers, over all outcome and conclusions are made only on a sample data set. I am not speaking for the whole majority of the German Deutschrap genre. Please view this project and analysis as a peak into the topic. The data will be biased to a certain degree, as I had to clean and wrangle them.
-
 ### Hypothesis
 1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
 2. The gender distribution of deutsch rap artists changed significantly from 2010-2021
@@ -75,6 +72,8 @@ All of the key take aways from above lead me to the conclusion, that the german 
 **Outlook**
 <br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
+**Disclaimer**
+<br/>Due to the time constrict for the final project (5 working days), the numbers, over all outcome and conclusions are made only on a sample data set. I am not speaking for the whole majority of the German Deutschrap genre. Please view this project and analysis as a peak into the topic. The data will be biased to a certain degree, as I had to clean and wrangle them.
 # 
 
 **Thank you for reading!** <br/>
