@@ -81,5 +81,4 @@ All of the key take aways from above lead me to the conclusion, that the german 
 **Thank you for reading!** <br/>
 If you have any questions or comments, please reach out.<br/><br/>
 
-<br/>![bottom_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/bottom_image.png?raw=true)
-
+![bottom_image](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/readme/bottom_image.png?raw=true)
