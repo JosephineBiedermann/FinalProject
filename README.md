@@ -18,6 +18,8 @@ Exploring diverent reasons for the rising popularity of the "Deutschrap" genre i
 
 German rap music is all over the place nowerdays. We see german rap artists on bilboards advertising the newest nike shoes, we encounter their tracks in movie soundtracks and we can even buy foods and drinks from their own brands. The most famous artists like Capital Bra and 187 Straßenbande are even known by our parents, which was unthinkable 10 years ago. But when and how did the phenomenon "Deutschrap" started and became as popular as it is today? 
 <br/>As a listener of Deutschrap myself I was always curious to find out more. So when the opportunity arose to choose an instresting topic for the final project of the Data Analytics Bootcamp from IRONHACK, I knew immediatly what I wanted to do.
+<br/>
+<br/>If you want to read more on the development of German rap, read this [article](https://www.medienradar.de/hintergrundwissen/artikel/deutscher-rap-von-den-urspruengen-bis-heute).
 
 ### Hypothesis
 1. The audio features of deutsch rap tracks became more similar to the audio features of tracks found in the top100 German charts from 2010-2021
@@ -66,7 +68,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now .
 <br/><br/>Please find the complete presentation [here](https://slides.com/josephinebiedermann/deck-8dbfaa/edit).
-
+<br/>
 **Outlook**
 <br/>Further reasearch on the development of listener profiles/demographics of german rap will be necessary to validate these claims.
 
