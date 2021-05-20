@@ -29,9 +29,9 @@ NEEDS TO BE ADDED
 
 CHANGE TO LOGO
 
-- [Official German Charts](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
-- [Spotify](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
-- [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_2.png" alt="" width="50" height="50" />](https://genius.com) https://genius.com - song texts
+- [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/bvmi-offizielle-charts_logo.jpg" alt="" width="100" height="50" />](https://www.offiziellecharts.de/charts/single/for-date-1617971799000) - weekly German top100 songs 2010-2021, weekly German top100 HipHop albums 2010-2021
+- [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/spotify_logo_1.png" alt="" width="100" height="50" />](https://www.spotify.com/de/home/) - artists, audio features, release dates, cover art
+- [<img src="https://github.com/JosephineBiedermann/FinalProject/blob/main/images/genius_logo_1.png" alt="" width="50" height="50" />](https://genius.com) - song texts
 
 # Process, Techniques & Tools
 
