@@ -53,7 +53,7 @@ NEEDS TO BE ADDED
 - Presenting
 ### Tools
 ![tools](https://github.com/JosephineBiedermann/FinalProject/blob/main/images/tools.png?raw=true)
-<pre> [Trello](https://trello.com/b/tW9WjSbh/final-project),       [GitHub](https://github.com/JosephineBiedermann/FinalProject),        [Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code),       [Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization),       [Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit) </pre>
+[Trello](https://trello.com/b/tW9WjSbh/final-project),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/JosephineBiedermann/FinalProject),        [Python/Jupyter Notebook](https://github.com/JosephineBiedermann/FinalProject/tree/main/code),       [Tableau](https://github.com/JosephineBiedermann/FinalProject/tree/main/visualization),       [Slides](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
 <br/>ALINE LINKS UNDER THE ICONS!
 
 # Key Take Aways
