@@ -33,15 +33,18 @@ NEEDS TO BE ADDED
 # Process, Techniques & Tools
 
 ### Process/Workflow
-- INSERT A DIAGRAM HERE instead of the following text
-   1. Set up project structure (GitHub, Trello)
-   2. Outline project plan
-   3. Find data resources
-   4. Get data
-   5. EDA, clean and wrangle data
-   6. Apply NLP techniques
-   7. Visualization & Analysis
-   8. Present project
+- Set up project structure (GitHub, Trello)
+- Outline project plan & formulate research questions
+- Find data sources
+- Get data
+   - Data set with all German weekly top100 tracks 2010-2020
+   - Data set with a representative sample of german rap artists
+   - Data set with a representative sample of german rap tracks
+   - Data set with lyrics for sample of german rap tracks 2010-2020
+- EDA, clean and wrangle data sets
+- Apply NLP techniques on lyrics data set
+- Visualization & Analysis in Tableau
+- Present project
   
 ### Techniques
 - Data Collection: Web Scraping
