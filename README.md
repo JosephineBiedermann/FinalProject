@@ -43,15 +43,15 @@ NEEDS TO BE ADDED
    - Data set with lyrics for sample of german rap tracks 2010-2020
 - EDA, clean and wrangle data sets
 - Apply NLP techniques on lyrics data set
-- Visualization & Analysis in Tableau
+- Visualization & analysis in Tableau
 - Present project
   
 ### Techniques
-- Data Collection: Web Scraping
+- Data collection: web scraping
 - EDA
-- Data Cleaning & Wrangling
-- Data Exploration/Statistical Analysis
-- Data Visualisation
+- Data cleaning & wrangling
+- Data exploration
+- Data visualisation
 - NLP (Tokenization, Buzzword, Word Frequency)
 - Presenting
 ### Tools
