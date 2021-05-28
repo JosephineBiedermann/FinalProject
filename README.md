@@ -65,6 +65,7 @@ German rap music is all over the place nowerdays. We see german rap artists on b
 - The **average dancebility** of german rap tracks overtook the average dancebility of other top100 tracks from other genres from 2015 on wards.
 - There are 1100% more **album releases** in 2020 compared to 2010 from the female german rap artists sample.
 - **Words** such as 'baby' and 'love' are more frequently used in 2020 german rap tracks within the german top 100 charts.
+<br/>find the full presentation [here](https://slides.com/josephinebiedermann/deck-8dbfaa/edit)
 
 All of the key take aways from above lead me to the conclusion, that the german rap genre opened up to a wider audiences. The rising number of female rap artists might have attrackted more female listeners. The increased dancebility might have drawn listeners of pop music to try out german rap. Listeners who have been put off by the word-use in rap tracks from previous years might now .
 
